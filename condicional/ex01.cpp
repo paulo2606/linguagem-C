@@ -13,5 +13,7 @@ int main(){
 	
 	printf("Valor %d ", valor);
 	
-	return 0;7
+	getchar();	
+	getchar();
+	return 0;
 }

@@ -21,4 +21,6 @@ int main(){
 	result = quadA + quadB + quadC;
 	
 	printf("O resultado da soma dos quadrados é de: %d", result);
+	
+	return 0;
 }
